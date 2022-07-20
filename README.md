@@ -1,6 +1,6 @@
 <h1> Github-battle App</h1>
 
-## [Live Demo](https://github-battle-two.vercel.app/)
+## [Live Demo](https://github-battle-using-hooks-three.vercel.app/)
 
 This is a Github-battle app.
 
